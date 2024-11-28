@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH2cXh0IpM0D7rtHamnj-c2DqU4x68glMFPyD0T56EXuLhyf1ioFtnFhf_0rfT6mQGjBo&usqp=CAU)
+![logo](https://github.com/FarooqKing/FarooqKing/blob/main/file.png)
 <h1 align="center">Hi 👋, I'm Umar Farooq</h1>
 <h3 align="center">A passionate Backend .Net developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
